@@ -1,0 +1,47 @@
+body
+{
+	background-color:#f0f0f0;
+}
+
+.myForm{
+	margin-top:50px;
+}
+.buttonClass{
+	margin:2px;
+    width:100px;
+	height:100px;
+	border-radius:15px;
+	background:#004080;
+	color:#fff;
+}
+
+
+
+#display{
+	width:320px;
+	height:35px;
+	border-radius:15px;
+	text-align:right;
+	margin-bottom:5px;
+	text-align:center;
+	font-size:18px;
+	
+}
+#newGame
+{
+	align:center;
+	margin:1px;
+    width:120px;
+	height:40px;
+	border-radius:15px;
+	background:#004080;
+	color:#fff;
+	margin-left:85px;
+	
+}
+small{
+	margin-left:80px;
+}
+.navbar{
+	border-radius:0px;
+}
